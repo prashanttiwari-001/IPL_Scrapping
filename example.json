@@ -1,0 +1,77 @@
+[
+    {
+        "Name": "Prashant",
+        "Last Name": "Tiwari",
+        "Age": 23,
+        "isAvengers": false,
+        "Friends": [
+            "Kaushik",
+            "Uttam",
+            "Raman"
+        ],
+        "Address": {
+            "State": "UttarPradesh",
+            "city": "Noida"
+        }
+    },
+    {
+        "Name": "Prashant",
+        "Last Name": "Tiwari",
+        "Age": 23,
+        "isAvengers": false,
+        "Friends": [
+            "Kaushik",
+            "Uttam",
+            "Raman"
+        ],
+        "Address": {
+            "State": "UttarPradesh",
+            "city": "Noida"
+        }
+    },
+    {
+        "Name": "Prashant",
+        "Last Name": "Tiwari",
+        "Age": 23,
+        "isAvengers": false,
+        "Friends": [
+            "Kaushik",
+            "Uttam",
+            "Raman"
+        ],
+        "Address": {
+            "State": "UttarPradesh",
+            "city": "Noida"
+        }
+    },
+    {
+        "Name": "Himanshu",
+        "Last Name": "Tiwari",
+        "Age": 23,
+        "isAvengers": false,
+        "Friends": [
+            "Kaushik",
+            "Uttam",
+            "Raman"
+        ],
+        "Address": {
+            "State": "UttarPradesh",
+            "city": "Noida"
+        }
+    },
+    {
+        "Name": "Himanshu",
+        "Last Name": "Tiwari",
+        "Age": 23,
+        "isAvengers": false,
+        "Friends": [
+            "Kaushik",
+            "Uttam",
+            "Raman"
+        ],
+        "Address": {
+            "State": "UttarPradesh",
+            "city": "Noida"
+        }
+    }
+]
